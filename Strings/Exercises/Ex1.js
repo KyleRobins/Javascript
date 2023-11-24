@@ -1,4 +1,4 @@
-// Exercise 1: Basic Concatenation
+// Exercise 1: Basic Concatenation adding two strings to each other
 // Create a variable firstName with your first name and a variable lastName with your last name. 
 // Concatenate them to form a full name and store it in a variable called fullName. Log the result to the console.
 
@@ -9,6 +9,4 @@ let firstName = "Kyle";
 let lastName = " Robins";
 let fullName = firstName + lastName; 
 console.log(fullName);
-
-
 

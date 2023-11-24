@@ -9,6 +9,8 @@ Write JavaScript code to perform the following operations and log the results us
 3. Multiply `5` by `6`.
 4. Divide `50` by `10`.
 
+    [Exercise 1 soltn](./Ex1.js)
+
 ### Exercise 2: Modulus Operator
 
 Write JavaScript code to find the remainder of the following divisions using the modulus operator `%` and log the results:
@@ -16,6 +18,8 @@ Write JavaScript code to find the remainder of the following divisions using the
 1. The remainder when `25` is divided by `7`.
 2. The remainder when `144` is divided by `12`.
 3. The remainder when `17` is divided by `4`.
+
+    [Exercise 2 soltn](./Ex2.js)
 
 ### Exercise 3: Math Object Methods
 
