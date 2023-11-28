@@ -10,8 +10,8 @@ JavaScript is a powerful and versatile programming language that enables you to 
 
 Explore various aspects of JavaScript by diving into the following directories:
 
-- [Intro-to-Js](./Intro-to-js/): An intro guide on what to expect while learning Javascript, Javascript Dev Enviroment Setup 
-- [Numbers & Math](./Numbers&Math/): Learn about mathematical operations in JavaScript.
+- [Intro-to-Js](./Intro-to-js/): An intro guide on what to expect while learning Javascript, Javascript Dev Environment Setup 
+- [Numbers & Math](./Numbers/): Learn about mathematical operations in JavaScript.
 - [Variables](./variables): Understand the basics of variables and data types.
 - [Boolean and If Statements](./boolean-if-statements): Master the art of boolean logic and conditional statements.
 - [Functions](./functions): Explore the world of functions and how to use them effectively.
