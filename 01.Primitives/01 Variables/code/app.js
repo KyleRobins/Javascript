@@ -6,7 +6,7 @@ let secondName = " Robins"; // the let keyword is used to declare a variable tha
 const whoami = "programmer"; // he const keyword is used to declare a variable with a constant value. It cannot be reassigned.
 
 console.log(
-    "My name is  " +
+    "My name is " +
      name +
       "" + 
       secondName +

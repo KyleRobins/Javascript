@@ -1,4 +1,4 @@
-## JavaScript Variables Notes 🚀
+## JavaScript Variables Notes.
 
 ## Introduction
 

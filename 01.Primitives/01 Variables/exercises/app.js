@@ -7,7 +7,7 @@
 let name = "Kyle Robins";
 let whatDoyouWannBecomeInYourLife = "programmer";
 let gender = "M";
-let twitterHandle = "@_kylerobins";
+let twitterHandle = "_kylerobins";
 
 console.log(
   "My name is " +
