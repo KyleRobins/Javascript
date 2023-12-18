@@ -1,4 +1,4 @@
-# Exploring the Power of the Console in JavaScript
+# Exploring the Power of the Console in JavaScript.
 
 When it comes to debugging and understanding what's happening behind the scenes in your JavaScript code, the `console` object is your best friend. In this guide, we'll dive into some of the essential features of `console.log` and how it can help you become a more effective developer.
 
