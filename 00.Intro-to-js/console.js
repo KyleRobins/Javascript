@@ -20,5 +20,6 @@ console.table({ name: "Kyle", age: 23, location: ["Kenya"] });
  * bla
  * bla
  * bla
+ * bla
  */
 
