@@ -1,4 +1,4 @@
-# JavaScript Introduction
+# JavaScript Introduction.
 
 JavaScript is a powerful and versatile programming language that is widely used for web development. It allows developers to create dynamic and interactive web pages, enhancing the user experience by adding functionalities such as form validation, animations, and real-time updates.
 
