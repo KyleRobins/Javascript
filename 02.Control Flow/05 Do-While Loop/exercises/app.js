@@ -4,6 +4,6 @@
 let i = 20;
 
 do {
-  console.log("Kyle");
+  console.log("Kyle", i);
   i++;
-} while (i <= 200);
+} while (i <= 400);
