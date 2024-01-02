@@ -18,7 +18,7 @@ const numbersArray = [1, 2, 3, 4, 5];
 // array of strings
 
 const stringArray = ["eat", "code", "sleep", "repeat"];
-// console.log(stringArray);
+console.log(stringArray);
 
 // accessing items from your array
 
