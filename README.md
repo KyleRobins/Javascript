@@ -21,6 +21,7 @@ Explore various aspects of JavaScript by diving into the following directories:
 - [Arrays and Loops](./arrays-loops): Explore arrays, loops, and their applications.
 - [Advanced Functions](./advanced-functions): Dive into more advanced concepts related to functions.
 
+5 of 366
 ## Additional Resources
 
 Enhance your learning experience with these external resources:
