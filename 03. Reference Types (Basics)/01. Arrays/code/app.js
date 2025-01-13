@@ -45,7 +45,7 @@ const mixedArray = [
 
 // ---------------------------------
 
-// Acessing Items
+// Accessing Items
 
 const myArray = ["h", "e", "l", "l", "o"];
 
